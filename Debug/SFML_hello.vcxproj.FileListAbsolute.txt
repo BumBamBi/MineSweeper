@@ -6,3 +6,5 @@ C:\lkw\Visual_Studio\SFML_hello - 복사본\Debug\SFML_hello.exe
 C:\lkw\Visual_Studio\SFML_hello - 복사본\Debug\SFML_hello.pdb
 C:\lkw\Visual_Studio\Cpp_Project\Debug\Cpp_project.exe
 C:\lkw\Visual_Studio\Cpp_Project\Debug\Cpp_project.pdb
+C:\lkw\Visual_Studio\MineSweeper\Debug\Cpp_project.exe
+C:\lkw\Visual_Studio\MineSweeper\Debug\Cpp_project.pdb
